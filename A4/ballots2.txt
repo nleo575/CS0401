@@ -1,0 +1,6 @@
+4
+44444:Best Sci Fi:Avatar,Star Wars,Alien,The Matrix,Dark City
+55555:Favorite Computer:Mac,PC
+66666:Best Tablet:iPad,Kindle,Nexus,Surface
+77777:Best Marvel Villain:Galactus,Onslaught,Doctor Doom,Magneto,Thanos
+
